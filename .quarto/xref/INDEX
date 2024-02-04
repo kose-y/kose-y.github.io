@@ -49,5 +49,8 @@
   },
   "publications/index.qmd": {
     "index.html": "ca7fa314"
+  },
+  "cv.qmd": {
+    "cv.html": "7a8ff907"
   }
 }
