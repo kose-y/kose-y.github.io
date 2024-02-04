@@ -1,0 +1,53 @@
+{
+  "index.qmd": {
+    "index.html": "b3280028"
+  },
+  "projects/project_2/index.qmd": {
+    "index.html": "5edb66b7"
+  },
+  "projects/index.qmd": {
+    "index.html": "62cf4813"
+  },
+  "projects/pkg_1/index.qmd": {
+    "index.html": "71d279a5"
+  },
+  "projects/project_1/index.qmd": {
+    "index.html": "840543e7"
+  },
+  "projects/pkg_2/index.qmd": {
+    "index.html": "95679469"
+  },
+  "talks/talk_2/index.qmd": {
+    "index.html": "ee808a6c"
+  },
+  "talks/index.qmd": {
+    "index.html": "cfbeb9ae"
+  },
+  "talks/talk_1/index.qmd": {
+    "index.html": "3df0cf4b"
+  },
+  "blog/post-with-code/index.qmd": {
+    "index.html": "24864cc3"
+  },
+  "blog/welcome/index.qmd": {
+    "index.html": "6a27df9e"
+  },
+  "about.qmd": {
+    "about.html": "aa31c341"
+  },
+  "about_template.qmd": {
+    "about_template.html": "95d68a5d"
+  },
+  "blog.qmd": {
+    "blog.html": "4e1936bb"
+  },
+  "teaching/index.qmd": {
+    "index.html": "73863f94"
+  },
+  "publications/Publications.qmd": {
+    "Publications.html": "a246cd1f"
+  },
+  "publications/index.qmd": {
+    "index.html": "ca7fa314"
+  }
+}

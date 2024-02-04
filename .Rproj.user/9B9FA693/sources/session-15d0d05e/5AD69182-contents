@@ -1,0 +1,37 @@
+---
+title: "Seyoon Ko"
+image: files/SeyoonK.png
+about:
+  id: kose-heading
+  template: trestles
+  image-shape: rectangle
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/kose_y
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/seyoon-ko-58186b93/
+    - icon: github
+      text: Github
+      href: https://github.com/kose-y
+---
+
+::: {#hero-heading}
+
+I am a visiting professor at UCLA. My primary research interest is bringing modern high-performance computing (HPC) techniques to enable statistical analysis of large-scale data. This involves computer-intensive statistical methodology, numerical optimization, development of easy-to-use software, parallel computing for statistical analysis on multi-GPU environments and CPU clusters, and their application to data-driven discovery in bioinformatics and statistical genetics.
+
+
+
+## Education 
+
+Seoul National University | Seoul, Korea
+
+PhD in Statistics | Aug 2020
+
+## Experience
+
+- Assistant Adjunct Professor, Department of Mathematics, UCLA | 2023-
+- Postdoctoral Scholar, Department of Computational Medicine, UCLA  | 2020-2023
+
+:::

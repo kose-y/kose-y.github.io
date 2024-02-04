@@ -1,0 +1,31 @@
+{
+    "id": "74303891",
+    "path": "~/kose-y.github.io/about_template.qmd",
+    "project_path": "about_template.qmd",
+    "type": "quarto_markdown",
+    "hash": "3760994083",
+    "contents": "",
+    "dirty": false,
+    "created": 1707006497359.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "4,20",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "94:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1707007908,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1707007908139,
+    "read_only": false,
+    "read_only_alternatives": []
+}
