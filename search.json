@@ -7,67 +7,88 @@
     "text": "Read more about Quarto blogs here.\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\n\n\n\n\nOct 25, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\n\n\n\n\nOct 22, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "about_template.html",
-    "href": "about_template.html",
-    "title": "About this template",
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
     "section": "",
-    "text": "About this template\n\n\n\nThis page contains some elaborated background information about your workshop, or the instructors.\n\n\nThis is to demonstrate how to make a drop-down page from the navigation bar."
+    "text": "as Instructor of Record\n\nPIC 16B: Python with Applications II (Fall 2023 – two lectures, Winter 2024) [syllabus] [schedule] [website]\n\nTopics include database queries, interactive visualization, web crawling, webapp development, deep learning libraries, just-in-time compilation, and multithreading.\n\nPIC 16A: Python with Applications I (Winter 2024) [syllabus] [schedule]\n\nTopics include Python basics, object-oriented programming, numerical computation, visualization, data wrangling, and machine learning.\n\nBIOSTAT 203C: Introduction to Data Science in Python (Spring 2024)\n\nTo develop a new course in data science for the new professional degree program.\n\nCollaboratory Workshops:\n\nQuarterly 3-hour, 3-day workshop series tailored to individuals in the biosciences community who are interested in learning data analysis, programming and statistical techniques. Students can earn credits for BIOINFO 275A/B by taking these workshops.\nMachine Learning with Python (6 times in 2021-22; 2023-24)\nIntroduction to Python (3 times in 2022-23)"
   },
   {
-    "objectID": "blog/welcome/index.html",
-    "href": "blog/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "teaching/index.html#ucla",
+    "href": "teaching/index.html#ucla",
+    "title": "Teaching",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "as Instructor of Record\n\nPIC 16B: Python with Applications II (Fall 2023 – two lectures, Winter 2024) [syllabus] [schedule] [website]\n\nTopics include database queries, interactive visualization, web crawling, webapp development, deep learning libraries, just-in-time compilation, and multithreading.\n\nPIC 16A: Python with Applications I (Winter 2024) [syllabus] [schedule]\n\nTopics include Python basics, object-oriented programming, numerical computation, visualization, data wrangling, and machine learning.\n\nBIOSTAT 203C: Introduction to Data Science in Python (Spring 2024)\n\nTo develop a new course in data science for the new professional degree program.\n\nCollaboratory Workshops:\n\nQuarterly 3-hour, 3-day workshop series tailored to individuals in the biosciences community who are interested in learning data analysis, programming and statistical techniques. Students can earn credits for BIOINFO 275A/B by taking these workshops.\nMachine Learning with Python (6 times in 2021-22; 2023-24)\nIntroduction to Python (3 times in 2022-23)"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "teaching/index.html#seoul-national-university",
+    "href": "teaching/index.html#seoul-national-university",
+    "title": "Teaching",
+    "section": "Seoul National University",
+    "text": "Seoul National University\nas Teaching Assistant\n\n326.211 Probability Concept and Applications (Spring 2020)\n\nBasic probability concepts, theories and their applications to related fields such as natural science, engineering, and social science.\n\n326.212 Statistical Computing and Lab. (Fall 2014, Fall 2015)\n\nLower-division programming course in R and C. Developed and managed course materials on GitHub.\n\nM1399.000100 Computational Statistics (Spring 2015, Spring 2016, Spring 2017)\n\nUpper-division course on computational methods in Statistics. Graded homeworks/exams. Homeworks managed on GitHub.\n\nM1399.000200 Advanced Statistical Computing (Fall 2016, Fall 2019)\n\nGraduate-level course on convex optimization and computation methods in Statistics. Graded homeworks using Julia. Course managed on GitHub."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
     "title": "Seyoon Ko",
     "section": "",
-    "text": "I’m a visiting assistant professor in the Department of Mathematics, University of California, Los Angeles, teaching courses in the Program in Computing (PIC) and Master of Data Science in Health program. Previously, I was a postdoctoral scholar in the Computational Medicine and Biostatistics departments, working with Dr. Kenneth Lange and Dr. Hua Zhou. I received a Ph.D. in Statistics in 2020 from Seoul National University, advised by Dr. Joong-Ho Won.\nMy research interests include bioinformatics, statistical methods for large-scale data, and applying high-performance computing for statistical methods. I am interested in applying advanced computational techniques on large-scale data to perform statistical inferences and discover patterns. As a collaborator, I have been involved in projects on particle physics, cancer research, genetics, public health, and medical imaging data.\nLink to CV"
+    "text": "I am a visiting professor at UCLA. My primary research interest is bringing modern high-performance computing (HPC) techniques to enable statistical analysis of large-scale data. This involves computer-intensive statistical methodology, numerical optimization, development of easy-to-use software, parallel computing for statistical analysis on multi-GPU environments and CPU clusters, and their application to data-driven discovery in bioinformatics and statistical genetics.\n\n\nSeoul National University | Seoul, Korea\nPhD in Statistics | Aug 2020\n\n\n\n\nAssistant Adjunct Professor, Department of Mathematics, UCLA | 2023-\nPostdoctoral Scholar, Department of Computational Medicine, UCLA | 2020-2023"
   },
   {
-    "objectID": "talks/index.html",
-    "href": "talks/index.html",
-    "title": "Talks",
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Seyoon Ko",
     "section": "",
-    "text": "Talk at Oslo UseR meetup\n\n\n\n\n\n\nApr 2, 2019\n\n\n\n\n\n\nNo matching items"
+    "text": "Seoul National University | Seoul, Korea\nPhD in Statistics | Aug 2020"
   },
   {
-    "objectID": "talks/index.html#rstats",
-    "href": "talks/index.html#rstats",
-    "title": "Talks",
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Seyoon Ko",
     "section": "",
-    "text": "Talk at Oslo UseR meetup\n\n\n\n\n\n\nApr 2, 2019\n\n\n\n\n\n\nNo matching items"
+    "text": "Assistant Adjunct Professor, Department of Mathematics, UCLA | 2023-\nPostdoctoral Scholar, Department of Computational Medicine, UCLA | 2020-2023"
   },
   {
-    "objectID": "talks/index.html#electronic-health-records",
-    "href": "talks/index.html#electronic-health-records",
-    "title": "Talks",
-    "section": "Electronic Health Records",
-    "text": "Electronic Health Records\n\n\n\n\n  \n\n\n\n\nLearning from Hospital EHR data with R\n\n\n\n\n\nA 15 minutes introduction to hospital EHR data\n\n\n\n\n\n\nOct 28, 2019\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/pkg_2/index.html",
-    "href": "projects/pkg_2/index.html",
-    "title": "pkg_2",
+    "objectID": "blog/post-with-code/index.html",
+    "href": "blog/post-with-code/index.html",
+    "title": "Post With Code",
     "section": "",
-    "text": "This package does this."
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "projects/pkg_1/index.html",
-    "href": "projects/pkg_1/index.html",
-    "title": "pkg_1",
+    "objectID": "talks/talk_1/index.html",
+    "href": "talks/talk_1/index.html",
+    "title": "Building Website in R: Step by Step Introduction to blogdown",
     "section": "",
-    "text": "This package does this."
+    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "projects/project_2/index.html",
-    "href": "projects/project_2/index.html",
-    "title": "project_2",
+    "objectID": "projects/project_1/index.html",
+    "href": "projects/project_1/index.html",
+    "title": "project_1",
     "section": "",
-    "text": "In this project I work on Machine Learning methods to predict in-hospital mortality."
+    "text": "In this project I use EHR to explore the hospital transfers."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This is an example of grid listing. You can specify the content in the yaml header in the .qmd file.\nIt is convenient to use id to link to multiple folders.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/index.html#grid-listing",
+    "href": "projects/index.html#grid-listing",
+    "title": "Projects",
+    "section": "",
+    "text": "This is an example of grid listing. You can specify the content in the yaml header in the .qmd file.\nIt is convenient to use id to link to multiple folders.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/index.html#table-listing",
+    "href": "projects/index.html#table-listing",
+    "title": "Projects",
+    "section": "Table listing",
+    "text": "Table listing\nThis is an example of table listing.\n\nPackages\n\n\n\n\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\npkg_1\n\n\n\n\n\n\n\npkg_2\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/index.html",
@@ -98,87 +119,66 @@
     "text": "Conference Abstracts\n\nKo, S., Sobel, E., Zhou, H., and Lange, K., Unsupervised Learning of Ancestry Informative Markers and Genetic Admixture Coefficients From Biobank Data. In Annual Meeting of American Society of Human Genetics 2022, Los Angeles, CA, USA, October 25-29, 2022.\nKo, S., Lee, J., Won, J.-H., and Lee, J., Fast and accurate reconstruction for susceptibility source separation in QSM. In Joint Annual Meeting ISMRM-ESMRMB 2018, Paris, France, June 16-21, 2018.\nBhimji, W., Racah, E., Ko, S., Sadowski, P., Tull, C., and Oh, S.-Y., Exploring Raw HEP Data using Deep Neural Networks at NERSC. In 38th International Conference on High Energy Physics, Chicago, IL, USA, August 3-10, 2017.\nKo, S., Yu, D., and Won, J.-H., A feature-splitting distributed algorithm for generalized linear models under generalized and group lasso penalties. In 9th International Conference of the ERCIM Working Group on Computational and Methodological Statistics, Seville, Spain, December 9-11, 2016.\nLee, H. B., Han, W., Ko, S., Kim, M. S., Lim. S., Lee, K. M., Kang, Y. J., Han, J. H., Kim, Y., Yoo, T. K., Moon, H. G., Noh, D. Y., and Kim, S., Identification of ESR splice variants associated with prognosis in estrogen receptor positive breast cancer. In Thirth-Eighth Annual CTRC-AACR San Antonio Breast Cancer Symposium, San Antonio, TX, USA, December 8-12, 2015."
   },
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
+    "objectID": "projects/project_2/index.html",
+    "href": "projects/project_2/index.html",
+    "title": "project_2",
     "section": "",
-    "text": "This is an example of grid listing. You can specify the content in the yaml header in the .qmd file.\nIt is convenient to use id to link to multiple folders.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "In this project I work on Machine Learning methods to predict in-hospital mortality."
   },
   {
-    "objectID": "projects/index.html#grid-listing",
-    "href": "projects/index.html#grid-listing",
-    "title": "Projects",
+    "objectID": "projects/pkg_1/index.html",
+    "href": "projects/pkg_1/index.html",
+    "title": "pkg_1",
     "section": "",
-    "text": "This is an example of grid listing. You can specify the content in the yaml header in the .qmd file.\nIt is convenient to use id to link to multiple folders.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "This package does this."
   },
   {
-    "objectID": "projects/index.html#table-listing",
-    "href": "projects/index.html#table-listing",
-    "title": "Projects",
-    "section": "Table listing",
-    "text": "Table listing\nThis is an example of table listing.\n\nPackages\n\n\n\n\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\npkg_1\n\n\n\n\n\n\n\npkg_2\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/project_1/index.html",
-    "href": "projects/project_1/index.html",
-    "title": "project_1",
+    "objectID": "projects/pkg_2/index.html",
+    "href": "projects/pkg_2/index.html",
+    "title": "pkg_2",
     "section": "",
-    "text": "In this project I use EHR to explore the hospital transfers."
+    "text": "This package does this."
   },
   {
-    "objectID": "talks/talk_1/index.html",
-    "href": "talks/talk_1/index.html",
-    "title": "Building Website in R: Step by Step Introduction to blogdown",
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Talks",
     "section": "",
-    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Talk at Oslo UseR meetup\n\n\n\n\n\n\nApr 2, 2019\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "blog/post-with-code/index.html",
-    "href": "blog/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "talks/index.html#rstats",
+    "href": "talks/index.html#rstats",
+    "title": "Talks",
     "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "Talk at Oslo UseR meetup\n\n\n\n\n\n\nApr 2, 2019\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "talks/index.html#electronic-health-records",
+    "href": "talks/index.html#electronic-health-records",
+    "title": "Talks",
+    "section": "Electronic Health Records",
+    "text": "Electronic Health Records\n\n\n\n\n  \n\n\n\n\nLearning from Hospital EHR data with R\n\n\n\n\n\nA 15 minutes introduction to hospital EHR data\n\n\n\n\n\n\nOct 28, 2019\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Seyoon Ko",
     "section": "",
-    "text": "I am a visiting professor at UCLA. My primary research interest is bringing modern high-performance computing (HPC) techniques to enable statistical analysis of large-scale data. This involves computer-intensive statistical methodology, numerical optimization, development of easy-to-use software, parallel computing for statistical analysis on multi-GPU environments and CPU clusters, and their application to data-driven discovery in bioinformatics and statistical genetics.\n\n\nSeoul National University | Seoul, Korea\nPhD in Statistics | Aug 2020\n\n\n\n\nAssistant Adjunct Professor, Department of Mathematics, UCLA | 2023-\nPostdoctoral Scholar, Department of Computational Medicine, UCLA | 2020-2023"
+    "text": "I’m a visiting assistant professor in the Department of Mathematics, University of California, Los Angeles, teaching courses in the Program in Computing (PIC) and Master of Data Science in Health program. Previously, I was a postdoctoral scholar in the Computational Medicine and Biostatistics departments, working with Dr. Kenneth Lange and Dr. Hua Zhou. I received a Ph.D. in Statistics in 2020 from Seoul National University, advised by Dr. Joong-Ho Won.\nMy research interests include bioinformatics, statistical methods for large-scale data, and applying high-performance computing for statistical methods. I am interested in applying advanced computational techniques on large-scale data to perform statistical inferences and discover patterns. As a collaborator, I have been involved in projects on particle physics, cancer research, genetics, public health, and medical imaging data.\nLink to CV"
   },
   {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Seyoon Ko",
+    "objectID": "blog/welcome/index.html",
+    "href": "blog/welcome/index.html",
+    "title": "Welcome To My Blog",
     "section": "",
-    "text": "Seoul National University | Seoul, Korea\nPhD in Statistics | Aug 2020"
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "Seyoon Ko",
+    "objectID": "about_template.html",
+    "href": "about_template.html",
+    "title": "About this template",
     "section": "",
-    "text": "Assistant Adjunct Professor, Department of Mathematics, UCLA | 2023-\nPostdoctoral Scholar, Department of Computational Medicine, UCLA | 2020-2023"
-  },
-  {
-    "objectID": "teaching/index.html",
-    "href": "teaching/index.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "as Instructor of Record\n\nPIC 16B: Python with Applications II (Fall 2023 – two lectures, Winter 2024) [syllabus] [schedule] [website]\n\nTopics include database queries, interactive visualization, web crawling, webapp development, deep learning libraries, just-in-time compilation, and multithreading.\n\nPIC 16A: Python with Applications I (Winter 2024) [syllabus] [schedule]\n\nTopics include Python basics, object-oriented programming, numerical computation, visualization, data wrangling, and machine learning.\n\nBIOSTAT 203C: Introduction to Data Science in Python (Spring 2024)\n\nTo develop a new course in data science for the new professional degree program.\n\nCollaboratory Workshops:\n\nQuarterly 3-hour, 3-day workshop series tailored to individuals in the biosciences community who are interested in learning data analysis, programming and statistical techniques. Students can earn credits for BIOINFO 275A/B by taking these workshops.\nMachine Learning with Python (6 times in 2021-22; 2023-24)\nIntroduction to Python (3 times in 2022-23)"
-  },
-  {
-    "objectID": "teaching/index.html#ucla",
-    "href": "teaching/index.html#ucla",
-    "title": "Teaching",
-    "section": "",
-    "text": "as Instructor of Record\n\nPIC 16B: Python with Applications II (Fall 2023 – two lectures, Winter 2024) [syllabus] [schedule] [website]\n\nTopics include database queries, interactive visualization, web crawling, webapp development, deep learning libraries, just-in-time compilation, and multithreading.\n\nPIC 16A: Python with Applications I (Winter 2024) [syllabus] [schedule]\n\nTopics include Python basics, object-oriented programming, numerical computation, visualization, data wrangling, and machine learning.\n\nBIOSTAT 203C: Introduction to Data Science in Python (Spring 2024)\n\nTo develop a new course in data science for the new professional degree program.\n\nCollaboratory Workshops:\n\nQuarterly 3-hour, 3-day workshop series tailored to individuals in the biosciences community who are interested in learning data analysis, programming and statistical techniques. Students can earn credits for BIOINFO 275A/B by taking these workshops.\nMachine Learning with Python (6 times in 2021-22; 2023-24)\nIntroduction to Python (3 times in 2022-23)"
-  },
-  {
-    "objectID": "teaching/index.html#seoul-national-university",
-    "href": "teaching/index.html#seoul-national-university",
-    "title": "Teaching",
-    "section": "Seoul National University",
-    "text": "Seoul National University\nas Teaching Assistant\n\n326.211 Probability Concept and Applications (Spring 2020)\n\nBasic probability concepts, theories and their applications to related fields such as natural science, engineering, and social science.\n\n326.212 Statistical Computing and Lab. (Fall 2014, Fall 2015)\n\nLower-division programming course in R and C. Developed and managed course materials on GitHub.\n\nM1399.000100 Computational Statistics (Spring 2015, Spring 2016, Spring 2017)\n\nUpper-division course on computational methods in Statistics. Graded homeworks/exams. Homeworks managed on GitHub.\n\nM1399.000200 Advanced Statistical Computing (Fall 2016, Fall 2019)\n\nGraduate-level course on convex optimization and computation methods in Statistics. Graded homeworks using Julia. Course managed on GitHub."
+    "text": "About this template\n\n\n\nThis page contains some elaborated background information about your workshop, or the instructors.\n\n\nThis is to demonstrate how to make a drop-down page from the navigation bar."
   }
 ]
