@@ -2,70 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://kose-y.github.io/blog.html</loc>
-    <lastmod>2024-02-04T05:32:23.920Z</lastmod>
+    <lastmod>2024-02-04T05:54:34.755Z</lastmod>
   </url>
   <url>
     <loc>https://kose-y.github.io/teaching/index.html</loc>
-    <lastmod>2024-02-04T05:32:23.199Z</lastmod>
+    <lastmod>2024-02-04T05:54:34.018Z</lastmod>
   </url>
   <url>
     <loc>https://kose-y.github.io/about.html</loc>
-    <lastmod>2024-02-04T05:32:22.455Z</lastmod>
+    <lastmod>2024-02-04T05:54:33.253Z</lastmod>
   </url>
   <url>
     <loc>https://kose-y.github.io/blog/post-with-code/index.html</loc>
-    <lastmod>2024-02-04T05:32:21.745Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kose-y.github.io/talks/talk_1/index.html</loc>
-    <lastmod>2024-02-04T05:32:20.778Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kose-y.github.io/talks/talk_2/index.html</loc>
-    <lastmod>2024-02-04T05:32:20.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kose-y.github.io/projects/project_1/index.html</loc>
-    <lastmod>2024-02-04T05:32:19.351Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kose-y.github.io/projects/index.html</loc>
-    <lastmod>2024-02-04T05:32:18.634Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kose-y.github.io/publications/index.html</loc>
-    <lastmod>2024-02-04T05:32:17.822Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kose-y.github.io/projects/project_2/index.html</loc>
-    <lastmod>2024-02-04T05:32:18.160Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kose-y.github.io/projects/pkg_1/index.html</loc>
-    <lastmod>2024-02-04T05:32:19.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kose-y.github.io/projects/pkg_2/index.html</loc>
-    <lastmod>2024-02-04T05:32:19.670Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kose-y.github.io/talks/index.html</loc>
-    <lastmod>2024-02-04T05:32:20.435Z</lastmod>
+    <lastmod>2024-02-04T05:54:32.544Z</lastmod>
   </url>
   <url>
     <loc>https://kose-y.github.io/index.html</loc>
-    <lastmod>2024-02-04T05:32:21.131Z</lastmod>
+    <lastmod>2024-02-04T05:54:31.544Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kose-y.github.io/talks/index.html</loc>
+    <lastmod>2024-02-04T05:54:30.832Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kose-y.github.io/projects/pkg_2/index.html</loc>
+    <lastmod>2024-02-04T05:54:30.061Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kose-y.github.io/projects/pkg_1/index.html</loc>
+    <lastmod>2024-02-04T05:54:29.392Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kose-y.github.io/projects/project_2/index.html</loc>
+    <lastmod>2024-02-04T05:54:28.467Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kose-y.github.io/publications/index.html</loc>
+    <lastmod>2024-02-04T05:54:28.132Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kose-y.github.io/projects/index.html</loc>
+    <lastmod>2024-02-04T05:54:29.011Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kose-y.github.io/projects/project_1/index.html</loc>
+    <lastmod>2024-02-04T05:54:29.728Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kose-y.github.io/talks/talk_2/index.html</loc>
+    <lastmod>2024-02-04T05:54:30.396Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kose-y.github.io/talks/talk_1/index.html</loc>
+    <lastmod>2024-02-04T05:54:31.167Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kose-y.github.io/software/index.html</loc>
+    <lastmod>2024-02-04T05:54:31.914Z</lastmod>
   </url>
   <url>
     <loc>https://kose-y.github.io/blog/welcome/index.html</loc>
-    <lastmod>2024-02-04T05:32:22.095Z</lastmod>
+    <lastmod>2024-02-04T05:54:32.893Z</lastmod>
   </url>
   <url>
     <loc>https://kose-y.github.io/about_template.html</loc>
-    <lastmod>2024-02-04T05:32:22.801Z</lastmod>
+    <lastmod>2024-02-04T05:54:33.590Z</lastmod>
   </url>
   <url>
     <loc>https://kose-y.github.io/cv.html</loc>
-    <lastmod>2024-02-04T05:32:23.517Z</lastmod>
+    <lastmod>2024-02-04T05:54:34.325Z</lastmod>
   </url>
 </urlset>

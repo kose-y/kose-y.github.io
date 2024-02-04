@@ -56,39 +56,53 @@
     "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "talks/talk_1/index.html",
-    "href": "talks/talk_1/index.html",
-    "title": "Building Website in R: Step by Step Introduction to blogdown",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Seyoon Ko",
     "section": "",
-    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "I’m a visiting assistant professor in the Department of Mathematics, University of California, Los Angeles, teaching courses in the Program in Computing (PIC) and Master of Data Science in Health program. Previously, I was a postdoctoral scholar in the Computational Medicine and Biostatistics departments, working with Dr. Kenneth Lange and Dr. Hua Zhou. I received a Ph.D. in Statistics in 2020 from Seoul National University, advised by Dr. Joong-Ho Won.\nMy research interests include bioinformatics, statistical methods for large-scale data, and applying high-performance computing for statistical methods. I am interested in applying advanced computational techniques on large-scale data to perform statistical inferences and discover patterns. As a collaborator, I have been involved in projects on particle physics, cancer research, genetics, public health, and medical imaging data.\nLink to CV"
   },
   {
-    "objectID": "projects/project_1/index.html",
-    "href": "projects/project_1/index.html",
-    "title": "project_1",
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Talks",
     "section": "",
-    "text": "In this project I use EHR to explore the hospital transfers."
+    "text": "Talk at Oslo UseR meetup\n\n\n\n\n\n\nApr 2, 2019\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
+    "objectID": "talks/index.html#rstats",
+    "href": "talks/index.html#rstats",
+    "title": "Talks",
     "section": "",
-    "text": "This is an example of grid listing. You can specify the content in the yaml header in the .qmd file.\nIt is convenient to use id to link to multiple folders.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Talk at Oslo UseR meetup\n\n\n\n\n\n\nApr 2, 2019\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/index.html#grid-listing",
-    "href": "projects/index.html#grid-listing",
-    "title": "Projects",
-    "section": "",
-    "text": "This is an example of grid listing. You can specify the content in the yaml header in the .qmd file.\nIt is convenient to use id to link to multiple folders.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "objectID": "talks/index.html#electronic-health-records",
+    "href": "talks/index.html#electronic-health-records",
+    "title": "Talks",
+    "section": "Electronic Health Records",
+    "text": "Electronic Health Records\n\n\n\n\n  \n\n\n\n\nLearning from Hospital EHR data with R\n\n\n\n\n\nA 15 minutes introduction to hospital EHR data\n\n\n\n\n\n\nOct 28, 2019\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/index.html#table-listing",
-    "href": "projects/index.html#table-listing",
-    "title": "Projects",
-    "section": "Table listing",
-    "text": "Table listing\nThis is an example of table listing.\n\nPackages\n\n\n\n\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\npkg_1\n\n\n\n\n\n\n\npkg_2\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "objectID": "projects/pkg_2/index.html",
+    "href": "projects/pkg_2/index.html",
+    "title": "pkg_2",
+    "section": "",
+    "text": "This package does this."
+  },
+  {
+    "objectID": "projects/pkg_1/index.html",
+    "href": "projects/pkg_1/index.html",
+    "title": "pkg_1",
+    "section": "",
+    "text": "This package does this."
+  },
+  {
+    "objectID": "projects/project_2/index.html",
+    "href": "projects/project_2/index.html",
+    "title": "project_2",
+    "section": "",
+    "text": "In this project I work on Machine Learning methods to predict in-hospital mortality."
   },
   {
     "objectID": "publications/index.html",
@@ -119,53 +133,46 @@
     "text": "Conference Abstracts\n\nKo, S., Sobel, E., Zhou, H., and Lange, K., Unsupervised Learning of Ancestry Informative Markers and Genetic Admixture Coefficients From Biobank Data. In Annual Meeting of American Society of Human Genetics 2022, Los Angeles, CA, USA, October 25-29, 2022.\nKo, S., Lee, J., Won, J.-H., and Lee, J., Fast and accurate reconstruction for susceptibility source separation in QSM. In Joint Annual Meeting ISMRM-ESMRMB 2018, Paris, France, June 16-21, 2018.\nBhimji, W., Racah, E., Ko, S., Sadowski, P., Tull, C., and Oh, S.-Y., Exploring Raw HEP Data using Deep Neural Networks at NERSC. In 38th International Conference on High Energy Physics, Chicago, IL, USA, August 3-10, 2017.\nKo, S., Yu, D., and Won, J.-H., A feature-splitting distributed algorithm for generalized linear models under generalized and group lasso penalties. In 9th International Conference of the ERCIM Working Group on Computational and Methodological Statistics, Seville, Spain, December 9-11, 2016.\nLee, H. B., Han, W., Ko, S., Kim, M. S., Lim. S., Lee, K. M., Kang, Y. J., Han, J. H., Kim, Y., Yoo, T. K., Moon, H. G., Noh, D. Y., and Kim, S., Identification of ESR splice variants associated with prognosis in estrogen receptor positive breast cancer. In Thirth-Eighth Annual CTRC-AACR San Antonio Breast Cancer Symposium, San Antonio, TX, USA, December 8-12, 2015."
   },
   {
-    "objectID": "projects/project_2/index.html",
-    "href": "projects/project_2/index.html",
-    "title": "project_2",
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
     "section": "",
-    "text": "In this project I work on Machine Learning methods to predict in-hospital mortality."
+    "text": "This is an example of grid listing. You can specify the content in the yaml header in the .qmd file.\nIt is convenient to use id to link to multiple folders.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/pkg_1/index.html",
-    "href": "projects/pkg_1/index.html",
-    "title": "pkg_1",
+    "objectID": "projects/index.html#grid-listing",
+    "href": "projects/index.html#grid-listing",
+    "title": "Projects",
     "section": "",
-    "text": "This package does this."
+    "text": "This is an example of grid listing. You can specify the content in the yaml header in the .qmd file.\nIt is convenient to use id to link to multiple folders.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/pkg_2/index.html",
-    "href": "projects/pkg_2/index.html",
-    "title": "pkg_2",
-    "section": "",
-    "text": "This package does this."
+    "objectID": "projects/index.html#table-listing",
+    "href": "projects/index.html#table-listing",
+    "title": "Projects",
+    "section": "Table listing",
+    "text": "Table listing\nThis is an example of table listing.\n\nPackages\n\n\n\n\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\npkg_1\n\n\n\n\n\n\n\npkg_2\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "talks/index.html",
-    "href": "talks/index.html",
-    "title": "Talks",
+    "objectID": "projects/project_1/index.html",
+    "href": "projects/project_1/index.html",
+    "title": "project_1",
     "section": "",
-    "text": "Talk at Oslo UseR meetup\n\n\n\n\n\n\nApr 2, 2019\n\n\n\n\n\n\nNo matching items"
+    "text": "In this project I use EHR to explore the hospital transfers."
   },
   {
-    "objectID": "talks/index.html#rstats",
-    "href": "talks/index.html#rstats",
-    "title": "Talks",
+    "objectID": "talks/talk_1/index.html",
+    "href": "talks/talk_1/index.html",
+    "title": "Building Website in R: Step by Step Introduction to blogdown",
     "section": "",
-    "text": "Talk at Oslo UseR meetup\n\n\n\n\n\n\nApr 2, 2019\n\n\n\n\n\n\nNo matching items"
+    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "talks/index.html#electronic-health-records",
-    "href": "talks/index.html#electronic-health-records",
-    "title": "Talks",
-    "section": "Electronic Health Records",
-    "text": "Electronic Health Records\n\n\n\n\n  \n\n\n\n\nLearning from Hospital EHR data with R\n\n\n\n\n\nA 15 minutes introduction to hospital EHR data\n\n\n\n\n\n\nOct 28, 2019\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Seyoon Ko",
+    "objectID": "software/index.html",
+    "href": "software/index.html",
+    "title": "Software",
     "section": "",
-    "text": "I’m a visiting assistant professor in the Department of Mathematics, University of California, Los Angeles, teaching courses in the Program in Computing (PIC) and Master of Data Science in Health program. Previously, I was a postdoctoral scholar in the Computational Medicine and Biostatistics departments, working with Dr. Kenneth Lange and Dr. Hua Zhou. I received a Ph.D. in Statistics in 2020 from Seoul National University, advised by Dr. Joong-Ho Won.\nMy research interests include bioinformatics, statistical methods for large-scale data, and applying high-performance computing for statistical methods. I am interested in applying advanced computational techniques on large-scale data to perform statistical inferences and discover patterns. As a collaborator, I have been involved in projects on particle physics, cancer research, genetics, public health, and medical imaging data.\nLink to CV"
+    "text": "OpenMendel project\n\nI have maintained over 20 packages in the project, including:\nSnpArrays.jl, for accelerated computation on PLINK 1 BED-formated genotype files\nTrajGWAS.jl, for GWAS of trajectory and longitudinal measurements\nOpenADMIXTURE.jl, performance-enhanced Julia reimplementation of the famous ADMIXTURE program\n\nSparseKmeansFeatureRanking.jl: Sparse K-means clustering with feature ranking used underneath OpenADMIXTURE.jl.\nnear-circulant-splitting\n\nSplitting with Near-Circulant Linear Systems: Applications to Total Variation CT and PET\n\nParProx.jl\n\nJulia package for penalized logistic regression and Cox proportional hazard regression using the proximal gradient method developed for omics studies. Supports plain lasso and group lasso penalties (groups may overlap).\n\nDistStat.jl\n\nJulia package for distributed computation supporting distributed matrix data structure and operations.\n\ndist_stat\n\nPython package distributed computation based on the distributed submodule of PyTorch. Supports distributed matrix data structure (distmat) and operations.\n\ndist-primal-dual\n\nPython package for optimally accelerated primal-dual algorithms for convex composite optimization. Multi-GPU parallelization enabled"
   },
   {
     "objectID": "blog/welcome/index.html",
