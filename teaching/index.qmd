@@ -7,19 +7,18 @@ title: "Teaching"
 ## UCLA
 as Instructor of Record
 
-- __PIC 16B__: Python with Applications II (Fall 2023 -- two lectures, Winter 2024) [[syllabus](../files/W24_PIC16B.pdf)] [[schedule](https://docs.google.com/spreadsheets/d/1zlXDq9kXBl95cLPLJa23gybunYrB4DQ0CS0AhSasLPA/edit?usp=sharing)] [[website](https://pic16b-ucla.edu/24W)]
+- __PIC 16B__: Python with Applications II (Fall 2023 -- two lectures, Winter 2024) [[syllabus](https://ucla.box.com/shared/static/l7a4t91zq5bny05sb1k0u51mh5y5b89g.pdf)] [[schedule](https://docs.google.com/spreadsheets/d/1zlXDq9kXBl95cLPLJa23gybunYrB4DQ0CS0AhSasLPA/edit?usp=sharing)] [[website](https://pic16b-ucla.github.io/24W)]
   - Topics include database queries, interactive visualization, web crawling, webapp development, deep learning libraries, just-in-time compilation, and multithreading.
 
-- __PIC 16A__: Python with Applications I (Winter 2024) [[syllabus](../files/W24_PIC16A.pdf)] [[schedule](https://docs.google.com/spreadsheets/d/1PIOgqsUpII6ewhW5LtVFsJNutqtWFJ3ZFsKfMSPxUVE/edit?usp=sharing)]
+- __PIC 16A__: Python with Applications I (Winter 2024) [[syllabus](https://ucla.box.com/shared/static/gt18lpoufp88y0sb10xircpg1b8czn4m.pdf)] [[schedule](https://docs.google.com/spreadsheets/d/1PIOgqsUpII6ewhW5LtVFsJNutqtWFJ3ZFsKfMSPxUVE/edit?usp=sharing)]
   - Topics include Python basics, object-oriented programming, numerical computation, visualization, data wrangling, and machine learning.
   
 - __BIOSTAT 203C__: Introduction to Data Science in Python (Spring 2024)
-  - To develop a new course in data science for the new professional degree program.
-
+  - I developed a new course for the Master of Data Science in Health program hosted by the Biostat department. It is the Biostat department's first offering for course in Python.
 
 - __Collaboratory Workshops__: 
   - Quarterly 3-hour, 3-day workshop series tailored to individuals in the biosciences community who are interested in learning data analysis, programming and statistical techniques. Students can earn credits for BIOINFO 275A/B by taking these workshops.
-  - Machine Learning with Python (6 times in 2021-22; 2023-24)
+  - Machine Learning with Python (5 times in 2021-22; 2023-24)
   - Introduction to Python (3 times in 2022-23)
 
 

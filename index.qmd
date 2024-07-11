@@ -19,7 +19,7 @@ about:
 
 ::: {#hero-heading}
 
-I'm a visiting assistant professor in the Department of Mathematics, University of California, Los Angeles, teaching courses in the [Program in Computing (PIC)](https://www.pic.ucla.edu/) and [Master of Data Science in Health](https://mdsh.ucla.edu/) program. Previously, I was a postdoctoral scholar in the Computational Medicine and Biostatistics departments, working with Dr. Kenneth Lange and Dr. [Hua Zhou](https://hua-zhou.github.io/). I received a Ph.D. in Statistics in 2020 from Seoul National University, advised by Dr. [Joong-Ho Won](https://won-j.github.io/). 
+I'm an Assistant Adjunct Professor of Mathematics and Biostatistics in the  University of California, Los Angeles, teaching courses in the [Program in Computing (PIC)](https://www.pic.ucla.edu/) and [Master of Data Science in Health](https://mdsh.ucla.edu/) program. Previously, I was a postdoctoral scholar in the Computational Medicine and Biostatistics departments, working with Dr. Kenneth Lange and Dr. [Hua Zhou](https://hua-zhou.github.io/). I received a Ph.D. in Statistics in 2020 from Seoul National University, advised by Dr. [Joong-Ho Won](https://won-j.github.io/). 
 
 My research interests include bioinformatics, statistical methods for large-scale data, and applying high-performance computing for statistical methods.
 I am interested in applying advanced computational techniques on large-scale data to perform statistical inferences and discover patterns.  As a collaborator, I have been involved in projects on particle physics, cancer research, genetics, public health, and medical imaging data.
