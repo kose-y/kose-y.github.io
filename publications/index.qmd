@@ -4,8 +4,9 @@ title: "Publications"
 
 Author profile on Google Scholar: [link](https://scholar.google.com/citations?user=oHe7UR8AAAAJ)
 
-
 ## Peer-reviewed Papers
+- Landeros, A., __Ko, S.__, Chang, J.Z., Wu, T.T., Lange, K. (2025). Sparse vertex discriminant analysis: Variable selection for biomedical classification applications. _Computational Statistics & Data Analysis_ 206, 108125. 
+- __Ko, S.__, Sobel, E. M., Zhou, H., Lange, K. (2024). Estimation of Genetic Admixture Proportions via Haplotypes. _Computational and Structural Biotechnology Journal_ 23, 4384-4439.
 - Chu, B. B., __Ko, S.__, Zhou, J. J., Jensen, A., Zhou, H., Sinsheimer, J. S., Lange, K. (2023). Multivariate Genomewide Association Analysis by Iterative Hard Thresholding. _Bioinformatics_, 39(4), btad193.  [[paper](https://doi.org/10.1093/bioinformatics/btad193)] [[Julia code](https://github.com/OpenMendel/MendelIHT.jl)]
 - __Ko, S.__, Chu, B. B., Peterson, D., Okenwa, C., Papp, J. C., Alexander, D. H., Sobel, E. M., Zhou, H., Lange, K. (2023). Unsupervised discovery of ancestry informative markers and genetic admixture proportions in biobank-scale data sets. _American Journal of Human Genetics_, 109(3), pp. 433-445. [[paper](https://doi.org/10.1016/j.ajhg.2022.12.008)][[Julia code](https://github.com/OpenMendel/OpenADMIXTURE.jl)]
 - __Ko, S.__, Zhou, H., Zhou, J., and Won, J.-H. (2022). High-Performance Statistical Computing in the Computing Environments of the 2020s. _Statistical Science_, 37(4), pp. 494–518. [[paper](https://projecteuclid.org/journals/statistical-science/volume-37/issue-4/High-Performance-Statistical-Computing-in-the-Computing-Environments-of-the/10.1214/21-STS835.short)] [[Python code, PyTorch, dask](https://github.com/kose-y/dist_stat)]
