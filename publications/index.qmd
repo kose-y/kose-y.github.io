@@ -27,12 +27,12 @@ Author profile on Google Scholar: [link](https://scholar.google.com/citations?us
 
 
 ## Working Papers and Preprints
-- __Ko, S.__, Suchard, M., and Holbrook, A. (2024+). Analyzing millions of SARS-CoV-2 cases with
-spatiotemporal Hawkes processes.
-- __Ko, S.__, Zhou, H., Sobel, E., and Lange, K. (2024+). Accurate estimation of genetic admixture proportions via haplotype modeling.
+- __Ko, S.__, Suchard, M., and Holbrook, A. J. (2024+). Scaling Hawkes processes to one million COVID-19 cases. arXiv preprint arXiv:2407.11349
 - __Ko, S.__, Zhou, H., Zhou, J., and Won, J.-H. (2024+). DistStat.jl: Towards unified programming for high-performance statistical computing environments in Julia. Under revision. [[Arxiv preprint](https://arxiv.org/abs/2010.16114)] [[Julia code](https://github.com/kose-y/DistStat.jl)]
 
 ## Conference Abstracts
+- __Ko, S.__, Suchard, M., and Holbrook, A. (2024). Analyzing millions of SARS-CoV-2 cases with
+spatiotemporal Hawkes processes. In _2024 Joint Statistical Meeting_, Portland, OR, USA, Aug 3-8, 2024. 
 - __Ko, S.__, Sobel, E., Zhou, H., and Lange, K., Unsupervised Learning of Ancestry Informative Markers and Genetic Admixture Coefficients From Biobank Data. In _Annual Meeting of American Society of Human Genetics 2022_, Los Angeles, CA, USA, October 25-29, 2022.
 - __Ko, S.__, Lee, J., Won, J.-H., and Lee, J., Fast and accurate reconstruction for susceptibility source separation in QSM. In Joint Annual Meeting ISMRM-ESMRMB 2018, Paris, France, June 16-21, 2018.
 - Bhimji, W., Racah, E., __Ko, S.__, Sadowski, P., Tull, C., and Oh, S.-Y., Exploring Raw HEP Data using Deep Neural Networks at NERSC. In _38th International Conference on High Energy Physics_, Chicago, IL, USA, August 3-10, 2017.
